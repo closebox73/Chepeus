@@ -48,7 +48,7 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ---------------------------------------
 
 ## Last
-these themes are inspired by
+- these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
 	- RAINMETER 
