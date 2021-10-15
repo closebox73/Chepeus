@@ -45,6 +45,11 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Er-Rai/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/qfmd9bu7IgA)
 
+#### [Kurhah](/Kurhah) theme
+
+![](/Kurhah/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/y5cEL5rWo8s)
+
 ---------------------------------------
 
 ## Last
