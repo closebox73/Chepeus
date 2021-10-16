@@ -50,6 +50,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ![](/Kurhah/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/y5cEL5rWo8s)
 
+#### [Garnet](/Garnet) theme
+
+![](/Garnet/preview.png)
+- Wallpaper [Here](https://unsplash.com/photos/Rl9l9mL6Pvs)
 ---------------------------------------
 
 ## Last
