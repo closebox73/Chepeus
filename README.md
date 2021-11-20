@@ -29,31 +29,25 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Done
 
 ## Screenshots :
-
 #### [Alderamin](/Alderamin) theme
-
 ![](/Alderamin/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/3It07ifpBCQ)
-
 #### [Alfirk](/Alfirk) theme
-
 ![](/Alfirk/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/Ai2TRdvI6gM)
-
 #### [Er-Rai](/Er-Rai) theme
-
 ![](/Er-Rai/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/qfmd9bu7IgA)
-
 #### [Kurhah](/Kurhah) theme
-
 ![](/Kurhah/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/y5cEL5rWo8s)
-
 #### [Garnet](/Garnet) theme
-
 ![](/Garnet/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/Rl9l9mL6Pvs)
+---------------------------------------
+### Featured
+#### [Rischa](/Rischa) theme
+![](/Rischa/preview.png)
 ---------------------------------------
 
 ## Last
