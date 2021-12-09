@@ -2,8 +2,6 @@
 
 A Conky themes pack which I made in hopes of beautifying your desktop 
 ## Showcase :
-
-## Screenshots :
 #### [Alderamin](/Alderamin) theme
 ![](/Alderamin/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/3It07ifpBCQ)
