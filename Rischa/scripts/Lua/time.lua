@@ -1,6 +1,6 @@
 words = {"O n e", "T w o", "T h r e e", "F o u r", "F i v e", "S i x", "S e v e n", "E i g h t", "N i n e"}
 levels = {"THOUSAND ", "MILLION ", "BILLION ", "TRILLION ", "QUADRILLION ", "QUINTILLION ", "SEXTILLION ", "SEPTILLION ", "OCTILLION ", [0] = ""}
-iwords = {"T e n", "T w e n t y ", "T h i r t y ", "F o r t y ", "F i f t y ", "S i x t y ", "Seventy ", "Eighty ", "Ninety "}
+iwords = {"T e n", "T w e n t y ", "T h i r t y ", "F o r t y ", "F i f t y ", "S i x t y ", "S e v e n t y ", "E i g h t y ", "N i n e t y "}
 twords = {"E l e v e n", "T w e l v e", "T h i r t e e n", "F o u r t e e n", "F i f t e e n", "S i x t e e n", "S e v e n t e e n", "E i g h t e e n", "N i n e t e e n"}
 
 function digits(n)
@@ -24,7 +24,7 @@ function getname(pos, dig)
 end
 
 function numberToWord(number)
-    if(number == 0) then return "O'Clock" end
+    if(number == 0) then return "O ' C l o c k" end
     vword = ""
     for i, v in digits(number) do
       vword = getname(i, v) .. vword
