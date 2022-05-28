@@ -21,6 +21,8 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ### Featured
 #### [Rischa](/Rischa) theme
 ![](/Rischa/preview.png)
+#### [Nunki](/Nunki) theme
+![](/Nunki/preview.png)
 ---------------------------------------
 
 ## Note :
