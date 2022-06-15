@@ -43,7 +43,7 @@ or
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
 
 ## :cyclone: Note :
-- syntax configuration of this theme for conky version 1.10.8 or newer
+- syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
 - the default folder for this theme is in ~/.config/conky if it doesn't exist please create one
 - Yeah i'm back to my favourite music player `mpd` and `ncmpcpp`
 - If the network speed doesn't work, try changing the network interface according to yours, the way to check is as follows
