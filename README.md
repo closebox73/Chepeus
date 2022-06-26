@@ -13,12 +13,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/3It07ifpBCQ)
 #### [Alfirk](/Alfirk) theme
 ![](/Alfirk/preview.png)
+- You can download this theme separately [Here](https://www.pling.com/p/1835804/)
 - Wallpaper [Here](https://unsplash.com/photos/Ai2TRdvI6gM)
 #### [Er-Rai](/Er-Rai) theme
 ![](/Er-Rai/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/qfmd9bu7IgA)
 #### [Kurhah](/Kurhah) theme
 ![](/Kurhah/preview.png)
+- You can download this theme separately [Here](https://www.pling.com/p/1835836/)
 - Wallpaper [Here](https://unsplash.com/photos/y5cEL5rWo8s)
 #### [Garnet](/Garnet) theme
 ![](/Garnet/preview.png)
@@ -32,15 +34,14 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ---------------------------------------
 
 ## :cyclone: Tip Jar :
-if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes
-
+if you like my themes, i will be very grateful if you are willing to make a donation to support me to make even better themes<br />
 thank you from all my heart
 
 [![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/closebox73)
 
-or
-
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/closebox73/)
+
+or the easiest way is to download my theme on [Pling.com](https://www.pling.com/u/closebox73x) 
 
 ## :cyclone: Note :
 - syntax configuration of this theme for conky version 1.10.8 or newer  ( but i prefer to use 1.10.8 version )
@@ -50,9 +51,9 @@ or
 	![](/Asset/Wlan.png)
 - I currently use Openbox, sometimes for other DE requires a slightly different setting
 	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here
-- All fonts i get from:
-	 - [Dafont](https://www.dafont.com)
-	 - [Google Fonts](https://fonts.google.com) 
+- Font Source :
+	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
+	 - [Feather icon font](https://github.com/AT-UI/feather-font)
 
 ## :cyclone: Requirements :
 - Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
@@ -77,6 +78,8 @@ I thank the people who have supported me,which makes me more excited to make new
 one of them are the following people:
 
 - [G Nussbaum](https://github.com/gnussbaum67)
+- [Yittri](https://github.com/yittri)
+- [Linuxscoop](https://github.com/linuxscoop/)
 
 ## :cyclone: Last
 - these themes are inspired by
