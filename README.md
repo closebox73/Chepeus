@@ -54,6 +54,7 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 - Font Source :
 	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
 	 - [Feather icon font](https://github.com/AT-UI/feather-font)
+	 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
 ## :cyclone: Requirements :
 - Conky version 1.10.8 or newer ( open this  [Link](https://github.com/brndnmtthws/conky) for instalation )
