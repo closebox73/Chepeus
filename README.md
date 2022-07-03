@@ -6,12 +6,13 @@
   </a>
 </h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
+
+## Showcase :
 #### Gomeisa theme
 
 ![](/Asset/gomeisa.png)
 - Only available at Pling.com [Link](https://www.pling.com/p/1844060/)
 ----------------------------------------------------------------
-## Showcase :
 #### [Alderamin](/Alderamin) theme
 ![](/Alderamin/preview.png)
 - Wallpaper [Here](https://unsplash.com/photos/3It07ifpBCQ)
