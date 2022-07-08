@@ -1,10 +1,7 @@
 ![greetings](/Asset/Chepeus.png)
-<!-- BADGES -->
-<h1>
-  <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/closebox73/Chepeus?style=round-square&label=&color=282C35&logo=github&logoColor=white&labelColor=00A943"/>
-  </a>
-</h1>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=closebox73&repo=Chepeus&countColor=%2300A943)
+
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
 ## :cyclone: Showcase :
