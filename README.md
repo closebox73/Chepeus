@@ -7,7 +7,9 @@
 </h1>
 A Conky themes pack which I made in hopes of beautifying your desktop 
 
-## Showcase :
+## :cyclone: Showcase :
+
+### :rocket: New theme !!!! :rocket:
 #### Gomeisa theme
 
 ![](/Asset/gomeisa.png)
