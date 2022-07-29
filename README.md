@@ -7,10 +7,10 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 ## :cyclone: Showcase :
 
 ### :rocket: New theme !!!! :rocket:
-#### Gomeisa theme
+#### Mira theme
 
-![](/Asset/gomeisa.png)
-- Only available at Pling.com [Link](https://www.pling.com/p/1844060/)
+![](/Asset/mira.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1868958/)
 ----------------------------------------------------------------
 #### [Alderamin](/Alderamin) theme
 ![](/Alderamin/preview.png)
@@ -31,6 +31,9 @@ A Conky themes pack which I made in hopes of beautifying your desktop
 - Wallpaper [Here](https://unsplash.com/photos/Rl9l9mL6Pvs)
 ---------------------------------------
 ### Featured
+#### Gomeisa theme
+![](/Asset/gomeisa.png)
+- Only available at Pling.com [Link](https://www.pling.com/p/1844060/)
 #### [Rischa](/Rischa) theme
 ![](/Rischa/preview.png)
 #### [Nunki](/Nunki) theme
@@ -57,6 +60,8 @@ or the easiest way is to download my theme on [Pling.com](https://www.pling.com/
 	if you know how to set it on another DE (if an error occurs) please let me know and I will post it here
 - Font Source :
 	 - [Comfortaa](https://fonts.google.com/specimen/Comfortaa)
+	 - [Manjari](https://fonts.google.com/specimen/Manjari)
+	 - [Smooch](https://fonts.google.com/specimen/Smooch)
 	 - [Feather icon font](https://github.com/AT-UI/feather-font)
 	 - [Inconsolata](https://fonts.google.com/specimen/Inconsolata)
 
@@ -85,12 +90,18 @@ one of them are the following people:
 - [G Nussbaum](https://github.com/gnussbaum67)
 - [Yittri](https://github.com/yittri)
 - [Linuxscoop](https://github.com/linuxscoop/)
+- [Ilham Adiputra](https://github.com/ilham25/)
 
 ## :cyclone: Last
-- these themes are inspired by
+#### these themes are inspired by
 	- KWGT widget for Android
 	- ZOOPER widget
-	- RAINMETER 
+	- RAINMETER
+	
+#### Credits
+	- Mini Clock Lua by easysid & Etles_Team
+	- Bargraph Lua by wlourf
+	- Rings meter Lua by londonali1010
 	
 <p align="center"><a href="https://github.com/closebox73/Chepeus/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=rounded-square&label=License&message=MIT-License&logoColor=white&logo=github&colorA=282C35&colorB=00A943"/></a></p>
 
